@@ -30,8 +30,8 @@ public class calculate_vowel_constatnts {
 				}
 			}
 		}
-		System.out.println("\n"+"count : "+cnt1);
-		System.out.println("\n"+"count : "+cnt2);
+		System.out.println("\n"+"Vowel count : "+cnt1);
+		System.out.println("\n"+"Consonant count : "+cnt2);
 
 	}
 }
