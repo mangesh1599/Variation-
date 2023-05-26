@@ -38,11 +38,10 @@ public class MyClass
 		int d2=0;
 		for(int i=0;i<N;i++)
 		{
-			for(int j=0;j<N;j++)
-			{
-				d1+=Grid[i][j];
-				d2+=Grid[i][N-j-1];
-			}
+			
+				d1+=Grid[i][i];
+				d2+=Grid[i][N-i-1];
+			
 		}
 		System.out.println(d2-d1);
 	}
