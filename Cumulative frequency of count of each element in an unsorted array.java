@@ -17,7 +17,8 @@ as an output.
   
   
  
-  public class MyClass 
+ import java.util.*;
+public class MyClass 
 {
 	//StartOfMainMethod
 	public static void main(String[] args) 
@@ -34,6 +35,7 @@ as an output.
 	public static void myCode(int[] a,int n) 
 	{
 		// write code here
+		ArrayList <Integer>al=new ArrayList<Integer>();
 		int index=0;
 		int b[] = new int[n];
 		for (int i = 0; i < n; i++)
@@ -46,9 +48,10 @@ as an output.
 			freq += b[a[i]];
 			if(b[a[i]] != 0)
 			{
-				System.out.println(a[i] + "->" + freq);
+				al.add(freq);
 			}
 			b[a[i]] = 0;
 		}
+		System.out.println(al);
 	}
 }
