@@ -84,3 +84,11 @@ public class intersection_of_multiple_arrays {
 	}
 
 }
+	
+	
+
+
+Output-
+	3
+	4
+	1
