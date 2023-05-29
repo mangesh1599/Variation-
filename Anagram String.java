@@ -52,3 +52,11 @@ public class anagram_string {
 	}
 
 }
+
+
+
+
+Output-
+	{e=4, f=1, g=2, k=2, o=1, r=1, s=2}
+	{e=4, f=1, g=2, k=2, o=1, r=1, s=2}
+	Anagram String 
