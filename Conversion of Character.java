@@ -25,3 +25,7 @@ public class conversion_of_character {
 	}
 
 }
+
+
+Output-
+	EzfM
