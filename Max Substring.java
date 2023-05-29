@@ -19,3 +19,7 @@ public class max_substring {
 		System.out.println(max);
 	}
 }
+
+
+Output-
+	4
