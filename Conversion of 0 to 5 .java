@@ -28,3 +28,6 @@ public class convert_0_to_5 {
 		System.out.println(sum2);
 	}
 }
+
+Output-
+	25515
