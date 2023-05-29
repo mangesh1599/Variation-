@@ -35,3 +35,9 @@ public class calculate_vowel_constatnts {
 
 	}
 }
+
+
+Output-
+	
+Vowel count : 5
+Consonant count : 5
