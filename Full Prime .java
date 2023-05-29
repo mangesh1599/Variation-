@@ -42,3 +42,7 @@ public class Fullprime {
 }
 
 
+Output-
+	0
+
+
