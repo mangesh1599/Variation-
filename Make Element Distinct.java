@@ -25,3 +25,7 @@ public class make_ele_distinct {
 	}
 
 }
+
+
+Output-
+	27
