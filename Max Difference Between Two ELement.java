@@ -21,3 +21,7 @@ public class max_distence_betn_two_ele {
 		System.out.println(max);
 	}
 }
+
+
+Output-
+	10
