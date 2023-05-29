@@ -47,3 +47,7 @@ public class difference_betn_sums {
 	}
 
 }
+
+
+Output-
+	Yes
