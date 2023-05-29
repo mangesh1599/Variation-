@@ -31,3 +31,7 @@ public class find_duplicate_string {
 	}
 
 }
+
+
+Output-
+	big black 
