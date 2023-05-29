@@ -38,3 +38,13 @@ public class nth_number{
 }
 
 
+
+Output-
+	43
+	44
+	333
+	334
+	343
+	344
+
+
