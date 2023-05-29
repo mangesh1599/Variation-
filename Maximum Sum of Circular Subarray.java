@@ -45,3 +45,8 @@ public class max_sum_of_circular_subarray {
 	}
 
 }
+
+
+
+Output-
+	22
