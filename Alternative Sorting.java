@@ -42,3 +42,9 @@ public class alternative_sorting {
 	}
 
 }
+
+
+
+
+Output-
+	8 1 7 2 6 3 5 4 
