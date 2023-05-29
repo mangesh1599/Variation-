@@ -29,3 +29,7 @@ public class array_Except {
 	}
 
 }
+
+
+Output-
+	True
