@@ -27,3 +27,6 @@ public class contains4 {
 	}
 
 }
+
+Output-
+	Count of 4 : 176
