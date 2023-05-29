@@ -79,3 +79,8 @@ public class find_max_repeated_ele {
 	}
 
 }
+
+
+
+Output-
+	1
