@@ -24,3 +24,8 @@ public class multiplication_of_left_and_right_array {
 	}
 
 }
+
+
+
+Output-
+	70
