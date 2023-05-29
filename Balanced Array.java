@@ -26,3 +26,7 @@ public class balanced_array {
 		System.out.println(diff);
 	}
 }
+
+
+Output-
+	1
