@@ -28,3 +28,9 @@ public class finger_prbm {
 	}
 
 }
+
+
+
+
+Output-
+	ring finger
