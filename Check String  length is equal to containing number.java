@@ -35,3 +35,6 @@ public class string_with_num_with_its_end {
 	}
 
 }
+
+Output-
+	Count of 4 : 176
