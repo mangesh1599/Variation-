@@ -11,3 +11,7 @@ public class calculate_distance {
 	}
 
 }
+
+
+Output-
+	4.242640687119285
