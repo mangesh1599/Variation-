@@ -31,3 +31,6 @@ public class Emirpnumber {
 
 	}
 }
+
+Output-
+	True
