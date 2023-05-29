@@ -19,3 +19,7 @@ public class maximize_sum {
 	}
 
 }
+
+
+Output-
+	10
