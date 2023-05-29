@@ -41,3 +41,10 @@ public class find_samallest_subarray_its_sum_greater_than_value {
 	}
 
 }
+
+
+
+
+Output-
+	1
+	[10]
