@@ -38,3 +38,10 @@ public class equal_to_sum_of_prime {
 		}
 	}
 }
+
+
+Output-
+	3 31
+	5 29
+	11 23
+	17 17
