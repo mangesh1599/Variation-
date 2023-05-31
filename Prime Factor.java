@@ -27,3 +27,9 @@ public class prime_factor {
 		System.out.println(al);
 	}
 }
+
+
+
+Output-
+	[2, 5, 5, 5]
+
