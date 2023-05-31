@@ -27,3 +27,7 @@ public class shift_all_zero_last {
 	}
 
 }
+
+
+Output-
+	2 4 6 2 -3 0 0 0 0 
