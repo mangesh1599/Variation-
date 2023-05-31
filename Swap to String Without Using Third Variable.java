@@ -31,3 +31,10 @@ public class swape_two_string_without_using_third_variable {
 	}
 
 }
+
+
+
+Output-
+	morning
+	good
+
