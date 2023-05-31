@@ -31,3 +31,9 @@ public class print_next_small_element {
 	}
 
 }
+
+
+
+Output-
+	{4=2, 8=5, 5=2, 2=-1, 25=-1}
+
