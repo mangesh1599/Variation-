@@ -31,3 +31,9 @@ public class UnioninArray {
 
 	}
 }
+
+
+
+Output-
+	[2, 3, 4, 7, 1, 9, 5]
+
