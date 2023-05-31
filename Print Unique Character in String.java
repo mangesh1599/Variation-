@@ -30,3 +30,8 @@ public class print_unique_character_in_string {
 		System.out.println(ts);
 	}
 }
+
+
+Output-
+	[f, i, o, q, r, u, z]
+
