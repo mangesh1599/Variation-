@@ -34,3 +34,8 @@ public class perrin_number {
 }
 
 
+Output-
+	12
+
+
+
