@@ -52,3 +52,11 @@ public class prime_palindrome {
 		return true;
 	}
 }
+
+
+Output-
+	2
+        3
+        5
+	7
+	11
