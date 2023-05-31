@@ -32,3 +32,8 @@ public class twisted_prime {
 	}
 
 }
+
+
+
+Output-
+	Prime Number
