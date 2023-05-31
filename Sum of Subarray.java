@@ -25,3 +25,9 @@ public class sum_of_subarray {
 	}
 
 }
+
+
+
+Output-
+	5
+
