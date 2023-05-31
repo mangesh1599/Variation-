@@ -19,3 +19,8 @@ public class sum_of_series {
 	}
 
 }
+
+
+
+Output-
+	sum : 35
