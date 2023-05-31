@@ -19,3 +19,9 @@ public class swipe_k_ele {
 	}
 
 }
+
+
+
+Output-
+	Before Swipe-5 1 4 3 2 
+	After Swipe-5 3 4 1 2 
