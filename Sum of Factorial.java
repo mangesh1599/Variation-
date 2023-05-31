@@ -19,11 +19,11 @@ public class sum_of_factorial {
 		}
 		if(sum==temp)
 		{
-			System.out.println("strong");
+			System.out.println("Strong");
 		}
 		else
 		{
-			System.out.println("weak");
+			System.out.println("Weak");
 		}
 
 	}
@@ -39,3 +39,8 @@ public class sum_of_factorial {
 		return fact;
 	}
 }
+
+
+
+Output-
+	StrongS
