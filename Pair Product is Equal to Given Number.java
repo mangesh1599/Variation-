@@ -31,3 +31,8 @@ public class pair_product_equal_given_value {
 	}
 
 }
+
+
+
+Output-
+	yes
