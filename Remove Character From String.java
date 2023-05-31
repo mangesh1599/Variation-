@@ -34,3 +34,8 @@ public class remove_charcater_from_string {
 		}
 	}
 }
+
+
+
+Output-
+	ompuer
