@@ -21,12 +21,18 @@ public class sum_equal_perfect_square {
 		}
 		if(b==true)
 		{
-			System.out.println("yes");
+			System.out.println("YES");
 		}
 		else
 		{
-			System.out.println("no");
+			System.out.println("NO");
 		}
 	}
 
 }
+
+
+
+Output-
+	NO
+
