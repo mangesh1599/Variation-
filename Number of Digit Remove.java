@@ -39,3 +39,8 @@ public class number_of_digit_to_remove {
 		}
 	}
 }
+
+
+
+Output-
+	-1
