@@ -56,3 +56,10 @@ public class same_largest_substring {
 	}
 
 }
+
+
+
+
+Output-
+	Geeks
+
