@@ -17,3 +17,9 @@ public class remainder_7 {
 
 	}
 }
+
+
+
+Output-
+	4
+
