@@ -24,3 +24,8 @@ public class print_duplicate {
 	}
 
 }
+
+
+Output-
+	2
+
